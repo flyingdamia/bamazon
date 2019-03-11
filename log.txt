@@ -1,0 +1,50 @@
+==============================================
+Order details:
+ ================
+ Item:Smash Ultimate
+ Quantity: 2 for $69 ea.
+ Total Cost: $138
+Thank you for your business.
+==============================================
+Order details:
+ ================
+ Item:Toe Jam and Earl
+ Quantity: 5 for $20 ea.
+ Total Cost: $100
+Thank you for your business.
+==============================================
+Order details:
+ ================
+ Item:Millenium Falcon
+ Quantity: 2 for $800 ea.
+ Total Cost: $1600
+Thank you for your business.
+==============================================
+Order details:
+ ================
+ Item:Millenium Falcon
+ Quantity: 2 for $800 ea.
+ Total Cost: $1600
+Thank you for your business.
+==============================================
+Order details:
+ ================
+ Item:Millenium Falcon
+ Quantity: 1 for $800 ea.
+ Total Cost: $800
+Thank you for your business.
+==============================================
+Order details:
+ ================
+ Item:Millenium Falcon
+ Quantity: 2 for $800 ea.
+ Total Cost: $1600
+Thank you for your business.
+==============================================
+Order details:
+ ================
+ Item:Gemini Southwest 737 Max8 1:400
+ Quantity: 29 for $45 ea.
+ Total Cost: $1305
+Thank you for your business.
+
